@@ -28,6 +28,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://xuyuheng.github.io
 github_username: xuyuheng
+google_analytics: UA-97411524-2
 google_site_verification: googlea3466fb8a67201df.html
 
 # Build settings
