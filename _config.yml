@@ -19,18 +19,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 许宇恒的编程世界
+tagline: 编程经验 iOS macOS Objective-C Swift C++
+lang: zh_CN
 author: 许宇恒
 email: yuheng0905@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  记录日常的编程经验和感悟，主要有iOS、macOS、Objective-C、Swift、C++方面的内容。
+  分享编程经验与感悟，主要包含iOS、macOS、Objective-C、Swift、C++等。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  xuyuheng
+github_username: xuyuheng
+google_site_verification: googlea3466fb8a67201df.html
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
