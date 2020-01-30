@@ -23,10 +23,10 @@ tagline: 编程经验 iOS macOS Objective-C Swift C++
 lang: zh_CN
 author: 许宇恒
 email: yuheng0905@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   分享编程经验与感悟，主要包含iOS、macOS、Objective-C、Swift、C++等。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://xuyuheng.github.io
 github_username: xuyuheng
 google_site_verification: googlea3466fb8a67201df.html
 
